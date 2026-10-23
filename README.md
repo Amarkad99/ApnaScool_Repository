@@ -1,3 +1,3 @@
 # ApnaScool_Repository
 its demo
-auther is amr
+auther is amar
